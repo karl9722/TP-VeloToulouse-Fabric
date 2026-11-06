@@ -1,0 +1,23 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+logs/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+logs/
+*.log
+
+# Fichiers temporaires
+.DS_Store
